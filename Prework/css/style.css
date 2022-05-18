@@ -1,0 +1,22 @@
+<style type="text/css">
+		h2{color: rosybrown; background-color: lightyellow;text-decoration: underline;}
+		#Poovailist{color: brown;}
+		.favourite{text-decoration: underline;}
+		#div1{background-color: gold;}
+		#div1:hover {background-color: whitesmoke;}
+		#div2{background-color: lightgray;}
+		#div3{background-color: lightgray;}
+		#div4{background-color: slategray;}
+		#div1,#div2, #div3, #div4 {border: solid;border-color: black;margin-left: 200px;}
+		input[type=button]:hover { border: solid;background-color: rgb(0, 230, 0); }
+		#Poovailist{font-style: italic;}
+		body{ border: solid; margin: 0px; padding: 5px; }
+ 	    #usaflag {position: relative; left: 550px; border: 3px solid #73AD21;}
+ 	    div.container{position: relative;}
+        #DIV1,#div2,#div3 { margin-left: 200px;}
+        nav{position: absolute; width: 190px;background-color: lightgray;}
+        div.container {position: relative;}
+        #div2 span{background-color: gold;display: inline-block;}
+
+        div.goodbye {position: fixed;bottom: 0;right:0; background-color:white; 300px;border: 3px solid black;}
+	</style> 
